@@ -1,0 +1,28 @@
+@import "reset.css";
+
+.header.top-site {
+    width: 100px;
+    min-height: 80px;
+    position: relative;
+    background-color:var(--header);
+
+}
+
+.header.footer-site {
+    background-color: #343433;
+}
+
+
+/* breakpoint */
+@media (min-width: 576px) {
+
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+
+}
